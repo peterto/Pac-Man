@@ -1,0 +1,27 @@
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\bin\Debug\PacmanApplication.exe
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\bin\Debug\PacmanApplication.pdb
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Debug\PacmanApplication.PacmanWindow.resources
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Debug\PacmanApplication.Properties.Resources.resources
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Debug\PacmanApplication.exe
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Debug\PacmanApplication.pdb
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Debug\PacmanApplication.exe
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Debug\PacmanApplication.pdb
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\bin\Debug\PacmanApplication.exe
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\bin\Debug\PacmanApplication.pdb
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Debug\PacmanApplication.PacmanWindow.resources
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Debug\PacmanApplication.Properties.Resources.resources
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Debug\PacmanApplication.exe
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Debug\PacmanApplication.pdb
+D:\projects\PacmanApplication\PacmanApplication\bin\Debug\PacmanApplication.exe
+D:\projects\PacmanApplication\PacmanApplication\bin\Debug\PacmanApplication.pdb
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Debug\PacmanApplication.PacmanWindow.resources
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Debug\PacmanApplication.Properties.Resources.resources
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Debug\GenerateResource.write.1.tlog

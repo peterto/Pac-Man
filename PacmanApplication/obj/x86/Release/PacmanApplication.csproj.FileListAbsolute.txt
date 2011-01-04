@@ -1,0 +1,23 @@
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Release\PacmanApplication.PacmanWindow.resources
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Release\PacmanApplication.Properties.Resources.resources
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Sam\AppData\Local\Temporary Projects\PacmanApplication\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\bin\Release\PacmanApplication.exe
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\bin\Release\PacmanApplication.pdb
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Release\PacmanApplication.PacmanWindow.resources
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Release\PacmanApplication.Properties.Resources.resources
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Release\PacmanApplication.exe
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\PacmanApplication\PacmanApplication\obj\x86\Release\PacmanApplication.pdb
+D:\projects\PacmanApplication\PacmanApplication\bin\Release\PacmanApplication.exe
+D:\projects\PacmanApplication\PacmanApplication\bin\Release\PacmanApplication.pdb
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Release\ResolveAssemblyReference.cache
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Release\PacmanApplication.PacmanWindow.resources
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Release\PacmanApplication.Properties.Resources.resources
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Release\GenerateResource.read.1.tlog
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Release\GenerateResource.write.1.tlog
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Release\PacmanApplication.exe
+D:\projects\PacmanApplication\PacmanApplication\obj\x86\Release\PacmanApplication.pdb
